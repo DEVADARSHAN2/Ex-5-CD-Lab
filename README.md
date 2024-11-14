@@ -1,5 +1,8 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
+## Name: DEVADARSHAN A S
+## Register No : 212222110007
+## DATE: 08.10.2024
 
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
